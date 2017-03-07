@@ -1,1 +1,2 @@
 line1 = "just testing advanced git concepts"
+line2 = "git seems bit hard"
